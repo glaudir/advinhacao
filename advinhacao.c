@@ -44,7 +44,6 @@ int main() {
             numerodetentativas = 6;
     }
 
-    printf("numero %d\n", numerosecreto);
 
     for(int i = 1; i < numerodetentativas; i++) { // lopp infinito
 
